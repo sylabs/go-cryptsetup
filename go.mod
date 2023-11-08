@@ -1,3 +1,3 @@
-module github.com/martinjungblut/go-cryptsetup
+module github.com/sylabs/go-cryptsetup
 
 go 1.16
